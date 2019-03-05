@@ -1,3 +1,2 @@
 from behave import *
 
-@given('')
