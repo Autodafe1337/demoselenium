@@ -1,1 +1,1 @@
-print('nu privet')
+print('nu privet2')
