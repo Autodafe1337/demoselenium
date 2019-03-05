@@ -10,3 +10,6 @@ search_button.click()
 
 assert 'Test automation' in driver.title
 driver.quit()
+
+
+print('ya pridurok')
