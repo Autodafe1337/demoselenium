@@ -12,4 +12,4 @@ assert 'Test automation' in driver.title
 driver.quit()
 
 
-print('ya pridurok')
+print('ya privetliviy')
